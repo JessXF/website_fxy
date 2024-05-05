@@ -92,3 +92,5 @@ friends:
   [
     { title: "Vincent B", href: "https://vincentbai.com/" },
   ]
+
+exclude: [vendor]
