@@ -1,0 +1,29 @@
+---
+layout:     post
+title:      "Iceland Trip"
+subtitle:   " \"Summer Dream\""
+date:       2022-04-24 14:32:00
+author:     "Xiyao"
+header-img: "img/iceland2.jpg"
+catalog: true
+tags:
+    - travel
+---
+
+> “Iceland ”
+
+In the summer of 2021, I went to Iceland. The place was like an unexplored alien planet, possessing a lonely and bizarre beauty. In Iceland during the summer, it is always daylight, with only occasional glimpses of the sunset casting its glow on the sea.
+
+
+Iceland is a realm where the raw power of nature is on full display, a place where geothermal energy bubbles just beneath the surface and every vista seems touched by an otherworldly grace. During my visit in the summer of 2021, the land felt surreal, almost as if stepping onto the terrain of a distant, untouched planet. The landscapes here are stark yet stunningly beautiful, with volcanic mountains, expansive lava fields, and cascading waterfalls that appear to pour straight from the heavens.
+
+
+The midnight sun bathes the island in a perpetual twilight during the summer months, creating a dreamlike atmosphere where the boundaries between day and night blur. In this light, the colors of the Icelandic wilderness deepen—fiery reds and oranges in the sky contrast sharply with the deep greens and grays of the rocky ground. Occasionally, the sun dips just below the horizon, painting the sky with strokes of gold and pink before rising again, as if reluctant to set.
+
+
+The solitude of the vast, open landscapes can feel overwhelmingly profound. The silence is only broken by the wind or the distant roar of ocean waves. It's a place where one can truly feel isolated from the rest of the world, enveloped by a unique beauty that's both enchanting and eerie. This enchantment makes Iceland not just a destination, but a deeply moving experience—a journey to the very edge of the earth's primal essence.
+
+
+
+<p id = "build"></p>
+

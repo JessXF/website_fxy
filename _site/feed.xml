@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jessica F</title>
+    <description>This is Jessica&apos;s personal website，Welcome</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 04 May 2024 22:42:10 -0400</pubDate>
+    <lastBuildDate>Sat, 04 May 2024 22:42:10 -0400</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Deep learning for Porfolio optimization</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;This project is still in progress.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We use deep learning models to directly optimize the portfolio Sharpe ratio. Our proposed framework avoids the need to forecast expected returns and enables us to directly optimize portfolio weights by updating the parameters of the model. please check out the github link below:&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&quot;https://github.com/JessXF/deep-learning-for-portfolio-optimization&quot;&gt;Deep learning for Porfolio optimization &lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 24 Apr 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/04/24/digital-native/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/04/24/digital-native/</guid>
+        
+        <category>project</category>
+        
+        <category>trading</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Iceland Trip</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“Iceland ”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the summer of 2021, I went to Iceland. The place was like an unexplored alien planet, possessing a lonely and bizarre beauty. In Iceland during the summer, it is always daylight, with only occasional glimpses of the sunset casting its glow on the sea.&lt;/p&gt;
+
+&lt;p&gt;Iceland is a realm where the raw power of nature is on full display, a place where geothermal energy bubbles just beneath the surface and every vista seems touched by an otherworldly grace. During my visit in the summer of 2021, the land felt surreal, almost as if stepping onto the terrain of a distant, untouched planet. The landscapes here are stark yet stunningly beautiful, with volcanic mountains, expansive lava fields, and cascading waterfalls that appear to pour straight from the heavens.&lt;/p&gt;
+
+&lt;p&gt;The midnight sun bathes the island in a perpetual twilight during the summer months, creating a dreamlike atmosphere where the boundaries between day and night blur. In this light, the colors of the Icelandic wilderness deepen—fiery reds and oranges in the sky contrast sharply with the deep greens and grays of the rocky ground. Occasionally, the sun dips just below the horizon, painting the sky with strokes of gold and pink before rising again, as if reluctant to set.&lt;/p&gt;
+
+&lt;p&gt;The solitude of the vast, open landscapes can feel overwhelmingly profound. The silence is only broken by the wind or the distant roar of ocean waves. It’s a place where one can truly feel isolated from the rest of the world, enveloped by a unique beauty that’s both enchanting and eerie. This enchantment makes Iceland not just a destination, but a deeply moving experience—a journey to the very edge of the earth’s primal essence.&lt;/p&gt;
+
+&lt;p id=&quot;build&quot;&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 24 Apr 2022 10:32:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/04/24/hello-2015/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/04/24/hello-2015/</guid>
+        
+        <category>travel</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
