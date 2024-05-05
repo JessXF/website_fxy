@@ -3,10 +3,10 @@
   <channel>
     <title>Jessica F</title>
     <description>This is Jessica&apos;s personal website，Welcome</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 04 May 2024 23:54:58 -0400</pubDate>
-    <lastBuildDate>Sat, 04 May 2024 23:54:58 -0400</lastBuildDate>
+    <link>http://localhost:4000/website_fxy/</link>
+    <atom:link href="http://localhost:4000/website_fxy/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 05 May 2024 00:16:55 -0400</pubDate>
+    <lastBuildDate>Sun, 05 May 2024 00:16:55 -0400</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -21,8 +21,8 @@
 
 </description>
         <pubDate>Wed, 24 Apr 2024 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2024/04/24/digital-native/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/04/24/digital-native/</guid>
+        <link>http://localhost:4000/website_fxy/2024/04/24/digital-native/</link>
+        <guid isPermaLink="true">http://localhost:4000/website_fxy/2024/04/24/digital-native/</guid>
         
         <category>project</category>
         
@@ -49,8 +49,8 @@
 
 </description>
         <pubDate>Sun, 24 Apr 2022 10:32:00 -0400</pubDate>
-        <link>http://localhost:4000/2022/04/24/hello-2015/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/04/24/hello-2015/</guid>
+        <link>http://localhost:4000/website_fxy/2022/04/24/hello-2015/</link>
+        <guid isPermaLink="true">http://localhost:4000/website_fxy/2022/04/24/hello-2015/</guid>
         
         <category>travel</category>
         
